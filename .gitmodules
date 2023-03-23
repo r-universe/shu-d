@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ipwCoxCSV"]
+	path = ipwCoxCSV
+	url = https://github.com/cran/ipwCoxCSV
+	shallow = true
+	registered = true
+[submodule "ipwErrorY"]
+	path = ipwErrorY
+	url = https://github.com/cran/ipwErrorY
+	shallow = true
+	registered = true
+[submodule "ppmHR"]
+	path = ppmHR
+	url = https://github.com/cran/ppmHR
+	shallow = true
+	registered = true
